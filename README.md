@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Nora%20Elayane&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60&descColor=c4b5fd" alt="Nora Elayane — Full Stack Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Nora%20Elayane&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%Full%20Stack%20Developer&descSize=22&descAlignY=60&descColor=c4b5fd" alt="Nora Elayane — Full Stack Developer" width="100%"/>
 
 <a href="https://github.com/nora-elayane">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Hi+I'm+Nora;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+PHP;Building+tools+for+productivity+and+well-being;Based+in+Morocco" alt="Typing SVG" />
