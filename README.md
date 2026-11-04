@@ -1,24 +1,22 @@
-<!-- GitHub Profile README — nora-elayane (v2) -->
+<!-- GitHub Profile README — nora-elayane (v3) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:7c3aed&height=240&section=header&text=Nora%20Elayane&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20PHP&descSize=18&descAlignY=62&descColor=c4b5fd" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Nora%20Elayane&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60&descColor=c4b5fd" alt="Nora Elayane — Full Stack Developer" width="100%"/>
 
 <a href="https://github.com/nora-elayane">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Hi+%F0%9F%91%8B+I'm+Nora;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;Building+tools+for+productivity+%26+well-being;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Hi+I'm+Nora;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+PHP;Building+tools+for+productivity+and+well-being;Based+in+Morocco" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20May%202027-22c55e?style=for-the-badge&labelColor=0f0c29" alt="PFE"/>
-<img src="https://img.shields.io/badge/Based%20in-Morocco%20🇲🇦-c1272d?style=for-the-badge&labelColor=0f0c29" alt="Morocco"/>
+<img src="https://img.shields.io/badge/Based%20in-Morocco-c1272d?style=for-the-badge&labelColor=0f0c29" alt="Morocco"/>
 <img src="https://komarev.com/ghpvc/?username=nora-elayane&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="views"/>
 
 </div>
 
 <br/>
-
-<!-- ───────────── ABOUT ───────────── -->
 
 <h2 align="center">✨ About Me ✨</h2>
 
@@ -31,7 +29,7 @@ public class Nora {
   String role    = "Full Stack Dev (2nd year)";
   String school  = "OFPPT · CMC Béni Mellal";
   String focus   = "Backend + UI/UX curiosity";
-  String now     = "Smart Auto-École 🚗";
+  String now     = "Smart Auto-École";
   String goal    = "PFE Internship · May 2027";
   boolean learning = true; // always
 }
@@ -50,8 +48,6 @@ public class Nora {
 </table>
 
 <br/>
-
-<!-- ───────────── TECH STACK ───────────── -->
 
 <h2 align="center">🧰 Tech Stack</h2>
 
@@ -79,51 +75,40 @@ public class Nora {
 
 <br/>
 
-<!-- ───────────── PROJECTS ───────────── -->
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-<a href="https://github.com/nora-elayane/smart-auto-ecole">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nora-elayane&repo=smart-auto-ecole&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/nora-elayane/JAVA_WEB_FULL_STACK_CODE">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nora-elayane&repo=JAVA_WEB_FULL_STACK_CODE&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/nora-elayane/GridPathfinder">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nora-elayane&repo=GridPathfinder&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/nora-elayane/healthy-bites">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nora-elayane&repo=healthy-bites&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🚗 [**smart-auto-ecole**](https://github.com/nora-elayane/smart-auto-ecole) | Driving school management web app (MVC) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ☕ [**JAVA_WEB_FULL_STACK_CODE**](https://github.com/nora-elayane/JAVA_WEB_FULL_STACK_CODE) | Exercises from the Full Stack training (React, Java, Spring Boot) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| 🧭 [**GridPathfinder**](https://github.com/nora-elayane/GridPathfinder) | Java app that solves grid-based maze traversal | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 🥗 [**healthy-bites**](https://github.com/nora-elayane/healthy-bites) | Healthy recipe website built while learning React | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 📝 [**my-dev-notes**](https://github.com/nora-elayane/my-dev-notes) | My learning notes, documented day by day | ![Markdown](https://img.shields.io/badge/Notes-7c3aed?style=flat-square&logo=markdown&logoColor=white) |
 
 </div>
 
 <br/>
-
-<!-- ───────────── STATS ───────────── -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nora-elayane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nora-elayane&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nora-elayane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nora-elayane&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=nora-elayane&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=nora-elayane&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nora-elayane&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
+<img width="90%" src="https://ghchart.rshah.org/7c3aed/nora-elayane" alt="Contribution chart" />
 
 </div>
 
 <br/>
-
-<!-- ───────────── CURRENTLY ───────────── -->
 
 <h2 align="center">🌱 Currently</h2>
 
@@ -140,20 +125,18 @@ public class Nora {
 
 <br/>
 
-<!-- ───────────── CONTACT ───────────── -->
-
 <h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nora-elayane-7b0926275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:noraelayane44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/nora-elayane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nora-elayane-7b0926275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:noraelayane44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/nora-elayane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
 <i>"Learning every day, shipping every week."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt=""/>
 
 </div>
