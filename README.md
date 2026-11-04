@@ -26,7 +26,7 @@
 
 ```java
 public class Nora {
-  String role    = "Full Stack Dev (2nd year)";
+  String role    = "JAVA Full Stack Dev (2nd year)";
   String school  = "OFPPT · CMC Béni Mellal";
   String focus   = "Backend + UI/UX curiosity";
   String now     = "Smart Auto-École";
@@ -94,9 +94,6 @@ public class Nora {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nora-elayane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nora-elayane&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top languages" />
 
 <br/><br/>
 
